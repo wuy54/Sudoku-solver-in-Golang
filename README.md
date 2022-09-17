@@ -6,7 +6,7 @@ This is a sudoku solver. <br />
   For the format of the sudoku board, please check the example .txt files in the txt folder.
 
 <br />
-# Detailed instruction on how to use the solver
+
 ## Instruction
 ### 1. How to start the program
 1. For running and testing the program, please first download and install GO at https://go.dev
@@ -20,6 +20,21 @@ go version
 6. To make the program run, type the below in your terminal
 ```
 go run Sudoku.go
+```
+### 2. How to use the solver
+## Instruction
+### 1. How to start the program
+1. For running and testing the program, please first download and install GO at https://go.dev
+2. To check the success of GO's installation, type the below in your terminal
+```
+go version
+```
+3. Git clone the whole project to your computer
+4. Open the terminal for your operating system
+5. Go to the project folder in the terminal
+6. To make the program run, type the below in your terminal
+```
+go run .
 ```
 ### 2. How to use the solver
 * Please put the sudoku you want to solve in .txt file in the txt folder of the project
@@ -52,6 +67,4 @@ Re-enter the file's name:
   1. \<Enter> for default test case 
   2. Type the specific file name
   3. "quit" to terminate the program
-* After the solver solved the sudoku, it will show the below:
-![Screen shot of program solving a puzzle](images/SudokuTerminal.png)
 
