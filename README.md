@@ -7,7 +7,7 @@ This is a sudoku solver. <br />
 
 <br />
 
-## Instruction
+## How to use
 ### 1. How to start the program
 1. For running and testing the program, please first download and install GO at https://go.dev
 2. To check the success of GO's installation, type the below in your terminal
